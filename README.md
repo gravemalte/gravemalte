@@ -1,6 +1,6 @@
 ## Hi, I'm Malte 👋
 
-🎓 I'm currently a doctorate candidate focusing on **variability modelling in the Cyber-Physical Production Systems** domain. 
+🎓 I'm currently a PhD student focusing on **variability modelling in the Cyber-Physical Production Systems** domain. 
 My research explores how to better manage consistency and adaptability in modern production systems using model-driven engineering and software product line techniques.
 
 ---
