@@ -28,3 +28,7 @@ When I’m not deep in code or research papers, I enjoy:
 - 🧗 Climbing
 - 🥾 Hiking 
 - 🏍️ Motorcycle riding
+
+
+## 🧑‍💻 Languages & Tools
+<img src="https://github.com/gravemalte/gravemalte/blob/main/lang-charts.svg" width="550"/>
