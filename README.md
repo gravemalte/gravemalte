@@ -21,6 +21,8 @@ In my free time, I explore the intersection of music and technology, particularl
 - 🎚️ Developing my own Digital Audio Workstation (DAW)
 - 🎧 DSP (Digital Signal Processing) modelling and experimentation using FPGA's
 
+<img src="https://github.com/gravemalte/gravemalte/blob/main/lang-charts.svg" width="400"/>
+
 
 ## 🎸 Outside of Tech
 When I’m not deep in code or research papers, I enjoy:
@@ -28,7 +30,3 @@ When I’m not deep in code or research papers, I enjoy:
 - 🧗 Climbing
 - 🥾 Hiking 
 - 🏍️ Motorcycle riding
-
-
-## 🧑‍💻 Languages & Tools
-<img src="https://github.com/gravemalte/gravemalte/blob/main/lang-charts.svg" width="550"/>
