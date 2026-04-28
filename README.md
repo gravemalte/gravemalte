@@ -26,7 +26,6 @@ In my free time, I explore the intersection of music and technology, particularl
 
 ## 🎸 Outside of Tech
 When I’m not deep in code or research papers, I enjoy:
-- 🎸 Playing electric guitar
 - 🧗 Climbing
 - 🥾 Hiking 
 - 🏍️ Motorcycle riding
