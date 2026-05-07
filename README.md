@@ -24,7 +24,7 @@ In my free time, I explore the intersection of music and technology, particularl
 <img src="https://github.com/gravemalte/gravemalte/blob/main/lang-charts.svg" width="400"/>
 -->
 
-## 🎶 Outside of Tech
+## 🎵 Outside of Tech
 When I’m not deep in code or research papers, I enjoy:
 - 🎸 Playing electric guitar
 - 🧗 Climbing
