@@ -1,12 +1,13 @@
 ## Hi, I'm Malte 👋
 
-🎓 I'm currently a PhD student focusing on **variability modelling in the Cyber-Physical Production Systems** domain. 
-My research explores how to better manage consistency and adaptability in modern production systems using model-driven engineering and software product line techniques.
+I'm currently a PhD student focusing on **variability modelling in the Cyber-Physical Production Systems** domain. 
+My research explores how to better manage consistency and adaptability in modern production systems using model-driven engineering and software product line techniques in combintation with formal methods.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 - Cyber-Physical Production Systems
+- Formal Methods
 - Variability Modelling
 - Consistency Checking
 - Model-Driven Engineering
@@ -15,18 +16,18 @@ My research explores how to better manage consistency and adaptability in modern
 
 ---
 
-## 🎶 Tech & Passion Projects
+## Tech & Passion Projects
 In my free time, I explore the intersection of music and technology, particularly:
-- ⌨️ Programming custom audio tools and plugins
-- 🎚️ Developing my own Digital Audio Workstation (DAW)
-- 🎧 DSP (Digital Signal Processing) modelling and experimentation using FPGA's
+- Programming custom audio tools and plugins
+- Developing my own Digital Audio Workstation (DAW)
+- DSP (Digital Signal Processing) modelling and experimentation using FPGA's
 <!--
 <img src="https://github.com/gravemalte/gravemalte/blob/main/lang-charts.svg" width="400"/>
 -->
 
-## 🎵 Outside of Tech
+## Outside of Tech
 When I’m not deep in code or research papers, I enjoy:
-- 🎸 Playing electric guitar
-- 🧗 Climbing
-- 🥾 Hiking 
-- 🏍️ Motorcycle riding
+- Playing electric guitar
+- Climbing
+- Hiking 
+- Motorcycle riding
